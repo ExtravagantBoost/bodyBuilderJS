@@ -1,4 +1,4 @@
-<!--# bodyBuilderJS
+# bodyBuilderJS
 An Easier way of Coding without JSX and minimizing the amount of Javascript you write
 
 **THIS IS NOT A NODEJS COMPATIBLE LIBRARY**
@@ -173,4 +173,4 @@ these properties that i have passed into this object have special properties tha
   * note: when you use this in the object, these will not be shown in the HTML structure as they are using Event listeners.
 * **Use this structure with setattr but do not pass the element name because you only changing the attribute structure**
 * final attribute(s), other attributes that are not `class`,`on`,`style` or `elementname` will be added as data to the Element, eg passing `role:"button"` would produce `<button role="button"></button>`
-Well this is it.. you're ready to code with **BodyBuilderJS**, Bye!!-->
+Well this is it.. you're ready to code with **BodyBuilderJS**, Bye!!
