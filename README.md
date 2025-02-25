@@ -1,7 +1,7 @@
 # bodyBuilderJS
 An Easier way of Coding without JSX and minimizing the amount of Javascript you write
-
-**THIS IS NOT A NODEJS COMPATIBLE LIBRARY**
+this module can be used in a static html site as well as node js environments
+** Client side ONLY
 ## purpose
 The purpose of this library is to mimimize the amount of code you have to write in order to dynamically change/create HTML elements
 

@@ -249,3 +249,8 @@ Object.defineProperty(l, '__actions__', {
         }
     }
 });
+//this checks if window is not defined, if not then it is running in nodejs
+//and we need to export the function
+if (typeof window == "undefined" && module) {
+    module.exports = {l};
+}

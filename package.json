@@ -1,0 +1,16 @@
+{
+  "name": "bodybuilderjs",
+  "version": "1.0.1",
+  "description": "Build Websites through js, Dynamically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'undefined'"
+  },
+  "keywords": [
+    "Html",
+    "js",
+    "es6"
+  ],
+  "author": "ExtravagantBoost",
+  "license": "MIT"
+}
