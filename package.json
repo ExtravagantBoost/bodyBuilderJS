@@ -11,7 +11,10 @@
     "js",
     "es6"
   ],
-  "repository:":"https://github.com/ExtravagantBoost/bodyBuilderJS",
+  "repository:":{
+    "type":"git",
+    "url":"https://github.com/ExtravagantBoost/bodyBuilderJS"
+  },
   "author": "ExtravagantBoost",
   "license": "MIT",
   "publishConfig": {
