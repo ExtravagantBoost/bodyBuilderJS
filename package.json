@@ -1,6 +1,6 @@
 {
   "name": "bodybuilderjs",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Build Websites through js, Dynamically",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,5 @@
     "url":"https://github.com/ExtravagantBoost/bodyBuilderJS"
   },
   "author": "ExtravagantBoost",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "license": "MIT"
 }

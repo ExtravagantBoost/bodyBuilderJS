@@ -1,5 +1,6 @@
+//this file should only be used when es6 is not a viable option
 /*made by ExtravagantBoost*/
-//this file should only be served in a es6 perspective only
+
 var l = (query) => {
 
     let element = document.querySelector(query);
@@ -250,6 +251,3 @@ Object.defineProperty(l, '__actions__', {
         }
     }
 });
-//this checks if window is not defined, if not then it is running in nodejs
-//and we need to export the function
-export default l;
